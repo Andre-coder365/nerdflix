@@ -2,8 +2,10 @@
 
 Criação de um clone da Netflix com carrossel de imagens e responsividade.
 Foi usado:
+
 ✅ HTML
 ✅ CSS
 ✅ JQuery
 ✅ JS
+
 (*JQuery e JS: arquivos do Owl Carousel.) 
